@@ -1,0 +1,7 @@
+.idea/
+out/
+Chatbot.iml
+*.class
+/bin/
+.classpath
+.project
