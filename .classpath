@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="10-13-2020/src"/>
+	<classpathentry kind="src" path="10-14-2020/src"/>
+	<classpathentry kind="src" path="10-15-2020/src"/>
+	<classpathentry kind="src" path="10-16-2020/src"/>
+	<classpathentry kind="src" path="10-2-2020/src"/>
+	<classpathentry kind="src" path="10-6-2020"/>
+	<classpathentry kind="src" path="10-7-2020/src"/>
+	<classpathentry kind="src" path="10-8-2020/src"/>
+	<classpathentry kind="output" path="10-13-2020/out/production/10-13-2020"/>
+</classpath>
